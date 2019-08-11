@@ -1,6 +1,4 @@
-﻿# leetcode-exercise
- leetcode题解
-
+﻿#  leetcode 74
 ### 思路
 这道题类似于全排列的实现，采用回溯法来解这个题。
 
